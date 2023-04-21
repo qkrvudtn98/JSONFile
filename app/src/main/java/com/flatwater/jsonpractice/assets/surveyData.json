@@ -1,0 +1,14 @@
+{
+  "survey": {
+    "surveyTitle" : "First Survey Title",
+    "surveyDetail" : "Secondary Title",
+    "questions" : {
+      "question" : {
+        "questionType" : "TITLE",
+        "questionTitle" : "첫번째 제목입니다!",
+        "questionDetail" : "첫번째 부제입니다!",
+        "items" : ""
+      }
+    }
+  }
+}
